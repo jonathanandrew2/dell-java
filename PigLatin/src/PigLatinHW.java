@@ -8,7 +8,7 @@ public class PigLatinHW {
 	    System.out.println("Write a word to turn it into Pig Latin");
 	    String myString = (sc.next());
 	  
-
+//created an array of vowels
 	    char[] myArray = new char[] {'a', 'e', 'i', 'o', 'u'};
 
 	    for(int i = 0; i < myArray.length; i++){

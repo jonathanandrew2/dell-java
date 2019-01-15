@@ -13,6 +13,7 @@ public class calc {
 		    int input1 = Integer.parseInt(sc.next());
 		    int input2 = Integer.parseInt(sc.next());
 		    System.out.print(subtraction(input1, input2));
+		    System.out.print(addition(input1, input2));
 		  
 		  
 		  
